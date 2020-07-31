@@ -1,9 +1,9 @@
 <template>
-  <section class="section">
+  <section class="section pt-5">
     <div class="columns is-mobile">
       <card
         title="Free"
-        icon="github"
+        icon="view-dashboard-outline"
       >
         Open source on <a href="https://github.com/buefy/buefy">
           GitHub

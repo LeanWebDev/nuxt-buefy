@@ -12,10 +12,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "@nuxt/content": "^1.5.0",
+    "@nuxt/content": "^1.15.1",
     "@nuxtjs/axios": "^5.12.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
-    "nuxt": "^2.14.0",
+    "nuxt": "^3.0.0",
     "nuxt-buefy": "^0.3.31",
     "vue-typer": "^1.2.0"
   },
@@ -29,6 +29,6 @@
     "eslint": "^7.5.0",
     "eslint-plugin-nuxt": "^1.0.0",
     "jest": "^26.1.0",
-    "vue-jest": "^3.0.4"
+    "vue-jest": "^4.0.1"
   }
 }
